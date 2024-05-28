@@ -36,6 +36,8 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+TristonLarsonNotes.txt
+
 ./TristonLarsonNotes.txt
 
 ../TristonLarsonNotes.txt
